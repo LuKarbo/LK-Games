@@ -1,0 +1,7 @@
+----Administrador----
+Usuario: admin24
+Password: admin2024
+
+----Cliente----
+Usuario: lucas2
+Password: 123
